@@ -4,8 +4,7 @@
 python3 -m venv venv
 активация виртуального окружения
 source venv/bin/activate
-вход в виртуальное окружение
-pip install -r requirements.txt
+
 ## Установка
 установка всех зависимостей 
 python_bot.py
