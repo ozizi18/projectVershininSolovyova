@@ -23,8 +23,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/tarot-astrology-bot.git
-   cd tarot-astrology-bot
+   git clone https://github.com/ozizi18/projectVershininSolovyova.git
+   cd projectVershininSolovyova
    ```
 
 2. Создайте виртуальное окружение:
@@ -64,16 +64,5 @@ python bot.py
 
 ## Связь
 
-Если у вас есть вопросы или предложения, вы можете связаться со мной через [ваш_email@example.com](mailto:ваш_email@example.com).
+Если у вас есть вопросы или предложения, вы можете связаться со мной через [viperrpank@icloud.com](mailto:viperrpank@icloud.com).
 ```
-
-### Инструкции по использованию:
-1. Замените `ваш_пользователь` в URL репозитория на ваше имя пользователя GitHub.
-2. Замените `ваш_email@example.com` на ваш реальный адрес электронной почты.
-3. Добавьте файл `requirements.txt` в корень проекта, если его еще нет, и укажите в нем необходимые зависимости:
-   ```
-   aiogram
-   requests
-   ```
-
-Теперь ваш `README.md` готов к публикации на GitHub!
