@@ -6,7 +6,7 @@ from aiogram.dispatcher import filters
 from aiogram.utils import executor
 import requests
 
-API_TOKEN = '7690257605:AAHfwk6nLzzclYAuj7OS16q9gqUmPIpqCrg'
+API_TOKEN = '7877054403:AAEl3brZHLAExXFr2PXq9sfVxPR82_scZBI'
 PROXY_URL = "http://user132581:schrvd@45.88.15.215:5085" # прокси, без них нейросеть не работает на территории РФ
 
 # Настройка логирования
